@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/foday027/" target="blank"><img align="center" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/32.png" color="red" alt="" height="40" width="40" /></a>
-<a href="https://www.instagram.com/b0nes.da.baddest/" target="blank"><img align="center" src="https://i.pinimg.com/474x/6b/58/e6/6b58e692f38e8f3484ff151d3187a071.jpg" alt="" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/foday027/" target="blank"><img align="center" src="https://blog.boon.so/wp-content/uploads/2024/03/LinkedIn-Logo-2-scaled.jpg" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/b0nes.da.baddest/" target="blank"><img align="center" src="https://i.pinimg.com/474x/6b/58/e6/6b58e692f38e8f3484ff151d3187a071.jpg" alt="instagram" height="50" width="50" /></a>
 </p>
 
 
