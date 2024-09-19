@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/2048px-Devicon-html5-plain-wordmark.svg.png" alt="html 5" width="40" height="40"/> </a> <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://www.svgrepo.com/show/102011/css-3.svg" alt="css" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/2048px-Devicon-html5-plain-wordmark.svg.png" alt="html 5" width="40" height="40"/></a> <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://www.svgrepo.com/show/102011/css-3.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt=javascript"  width="40" height="40"/>  </a> 
 <a href="https://react.dev/" target="_blank"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-3d-icon-download-in-png-blend-fbx-gltf-file-formats--facebook-logo-native-javascript-library-user-interfaces-coding-lang-pack-logos-icons-7578010.png" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en" target="_blank"> <img src="https://images.credly.com/images/51aeb74b-ec87-4069-93fc-0ea449c8d77f/twitter_thumb_201604_node.png" alt="node.js" width="40" height="40"/> </a>
