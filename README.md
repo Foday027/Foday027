@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  
-  <a href="https://www.python.org" target="_blank"> <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-G7lfHVAusHMoTKbHXHA0RtXGzOfyHx_T-Q&s](https://image.similarpng.com/very-thumbnail/2021/12/Python-programming-logo-on-transparent-background-PNG.png)" alt="python" width="40" height="40"/> </a> </p>
+  <a href="https://www.python.org" target="_blank"> <img src="(https://image.similarpng.com/very-thumbnail/2021/12/Python-programming-logo-on-transparent-background-PNG.png)" alt="python" width="40" height="40"/> </a> </p>
