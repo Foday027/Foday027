@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/840/443/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text.png" alt="html5" width="40" height="40"/> </a>
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/2048px-Devicon-html5-plain-wordmark.svg.png" width="40" height="40"/> </a>
  
   <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="python" width="40" height="40"/> </a> </p>
