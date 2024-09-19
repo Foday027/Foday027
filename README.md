@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Languages and Tools:</h3>
-
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Devicon-html5-plain-wordmark.svg/2048px-Devicon-html5-plain-wordmark.svg.png" alt="html 5" width="40" height="40"/> </a>  
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt=javascript"  width="40" height="40"/>  </a> 
