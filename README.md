@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/foday027/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" color="red" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/b0nes.da.baddest/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWQi_YibS2ucmhHlo74QgesYA43rhas8_Yg&s" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/b0nes.da.baddest/" target="blank"><img align="center" src="https://img.freepik.com/free-psd/3d-circle-with-instagram-symbol-isolated-transparent-background_125540-3727.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1726704000&semt=ais_hybrid" alt="" height="30" width="40" /></a>
 </p>
 
 
