@@ -1,6 +1,6 @@
 ## What's Up 
-<img src="![image](https://github.com/user-attachments/assets/89735fea-9445-465b-bc54-f54f7d7c3b11)/>
-"
+<img src="https://github.com/user-attachments/assets/89735fea-9445-465b-bc54-f54f7d7c3b11"/>
+
 ![image](https://github.com/user-attachments/assets/1457382d-ad5a-4152-b6f5-da2d76a76c6e)
 
 I love this coding world, I like new stuffs especially things i'm not familiar with, when it comes to coding, i got zero ego, willing to learn from whomever.
