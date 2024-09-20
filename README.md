@@ -1,5 +1,5 @@
 ## What's Up 
-<img src="https://github.com/user-attachments/assets/89735fea-9445-465b-bc54-f54f7d7c3b11" alt="card about me" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/89735fea-9445-465b-bc54-f54f7d7c3b11" alt="card about me" width="600" height="200"/>
 
 ![image](https://github.com/user-attachments/assets/1457382d-ad5a-4152-b6f5-da2d76a76c6e)
 
