@@ -2,7 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/1457382d-ad5a-4152-b6f5-da2d76a76c6e)
 
-I love this coding world
+I love this coding world, I like new stuffs especially things i'm not familiar with, when it comes to coding i got 0 zero ego willing to learn from whomever.
+
+
 
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" alt="coding" width="200"/>
