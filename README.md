@@ -9,11 +9,6 @@ I love this coding world, I like new stuffs especially things i'm not familiar w
 
 It's not a RACE, don't race for something you love, fight for it!  :keyboard:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 <img src="https://github-readme-stats.vercel.app/api?username=foday027&show_icons=true&theme=neon" width="500"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foday027&layout=compact&bg_color=00000000&show_icons=true&theme=gruvbox" width="400"/>
 
