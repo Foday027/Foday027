@@ -1,4 +1,5 @@
 ## What's Up  :computer:  :keyboard:
+![](https://komarev.com/ghpvc/?username=your-github-foday027&color=green)
 <img src="https://github.com/user-attachments/assets/89735fea-9445-465b-bc54-f54f7d7c3b11" alt="card about me" width="600" height="200" rounded/>
 
 ![image](https://github.com/user-attachments/assets/57758294-f8af-4faa-850a-6db61f2db3d4)
