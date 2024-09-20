@@ -6,6 +6,8 @@ I love this coding world, I like new stuffs especially things i'm not familiar w
 
 It's not a RACE, don't race for something you love, fight for it!
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Foday027&theme=monokai&hide_border=true&border_radius=20&exclude_days=Sun&card_width=500&card_height=210)](https://git.io/streak-stats)
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Foday027&theme=monokai&hide_border=true&border_radius=20&exclude_days=Sun&card_width=500&card_height=210" alt="GitHub Streak" /></a>
 
 
