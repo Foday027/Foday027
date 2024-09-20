@@ -3,7 +3,6 @@
 
 <img src="https://github.com/user-attachments/assets/89735fea-9445-465b-bc54-f54f7d7c3b11" alt="card about me" width="600" height="200"/>
 
-
 ![image](https://github.com/user-attachments/assets/57758294-f8af-4faa-850a-6db61f2db3d4)
 
 I love this coding world, I like new stuffs especially things i'm not familiar with, when it comes to coding, i got zero ego, willing to learn from whomever.
