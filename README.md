@@ -1,4 +1,4 @@
-## What's Up there 👋
+## What's Up 
 
 ![image](https://github.com/user-attachments/assets/1457382d-ad5a-4152-b6f5-da2d76a76c6e)
 
