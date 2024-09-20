@@ -3,11 +3,11 @@
 
 ![image](https://github.com/user-attachments/assets/57758294-f8af-4faa-850a-6db61f2db3d4)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foday027&show_icons=true&theme=radical)
-
 I love this coding world, I like new stuffs especially things i'm not familiar with, when it comes to coding, i got zero ego, willing to learn from whomever.
 
 It's not a RACE, don't race for something you love, fight for it!  :keyboard:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foday027&show_icons=true&theme=radical)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Foday027&theme=monokai&hide_border=true&border_radius=20&exclude_days=Sun&card_width=500&card_height=210" alt="GitHub Streak" /></a>
 
