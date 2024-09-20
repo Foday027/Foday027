@@ -2,25 +2,7 @@
 <img src="https://github.com/user-attachments/assets/89735fea-9445-465b-bc54-f54f7d7c3b11" alt="card about me" width="600" height="200" rounded/>
 
 ![image](https://github.com/user-attachments/assets/57758294-f8af-4faa-850a-6db61f2db3d4)
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 I love this coding world, I like new stuffs especially things i'm not familiar with, when it comes to coding, i got zero ego, willing to learn from whomever.
 
