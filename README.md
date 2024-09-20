@@ -7,7 +7,7 @@ I love this coding world, I like new stuffs especially things i'm not familiar w
 
 It's not a RACE, don't race for something you love, fight for it!  :keyboard:
 
-<img src="https://github-readme-stats.vercel.app/api?username=foday027&show_icons=true&theme=neon" width="500"/>  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Foday027&theme=monokai&hide_border=true&border_radius=20&exclude_days=Sun&card_width=500&card_height=210" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=foday027&show_icons=true&theme=neon" width="500"/>     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Foday027&theme=monokai&hide_border=true&border_radius=20&exclude_days=Sun&card_width=500&card_height=210" alt="GitHub Streak" /></a>
 
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" alt="coding" width="200"/>
