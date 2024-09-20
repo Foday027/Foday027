@@ -9,6 +9,26 @@ I love this coding world, I like new stuffs especially things i'm not familiar w
 
 It's not a RACE, don't race for something you love, fight for it!  :keyboard:
 
+- uses: foday027/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_foday027: ${{ github.foday027 }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=foday027&show_icons=true&theme=neon" width="500"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foday027&layout=compact&bg_color=00000000&show_icons=true&theme=gruvbox" width="400"/>
 
