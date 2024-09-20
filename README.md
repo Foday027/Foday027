@@ -4,8 +4,7 @@
 
 I love this coding world, I like new stuffs especially things i'm not familiar with, when it comes to coding, i got zero ego, willing to learn from whomever.
 
-It's not a RACE, you don't race for something you love but fight!
-
+It's not a RACE, don't race for something you love, fight for it!
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Foday027&theme=monokai&hide_border=true&border_radius=20&exclude_days=Sun&card_width=500&card_height=210" alt="GitHub Streak" /></a>
 
